@@ -1,0 +1,31 @@
+{
+    "name": "markushaug/homify-sonos",
+    "type": "laravel-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Markus Haug",
+            "email": "mh@haugmarkus.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "composer require sqmk/phue": "1.7.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Phue\\Providers\\PhueServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Phue\\": ""
+        }
+    }
+}
+

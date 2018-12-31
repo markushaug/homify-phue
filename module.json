@@ -1,0 +1,16 @@
+{
+    "name": "Phue",
+    "alias": "phue",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Phue\\Providers\\PhueServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
