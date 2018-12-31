@@ -12,6 +12,7 @@ Control you Hue-Devices with homify
 
 1. Navigate into your homify folder
 3. Run ```composer require markushaug/homify-phue``` 
+4. Add ```PHUE_USER=HOMIFY``` to your ```.env``` file
 
 ## Usage
 
