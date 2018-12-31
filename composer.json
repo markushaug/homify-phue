@@ -9,8 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "composer require sqmk/phue": "1.7.0"
+        "sqmk/phue": "1.7.0"
     },
     "extra": {
         "laravel": {
