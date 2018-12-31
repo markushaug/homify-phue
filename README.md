@@ -1,4 +1,4 @@
-## homify-hue - Hue Plug-in for homify
+## homify-phue - Hue Plug-in for homify
 Control you Hue-Devices with homify
 
 ## Features
